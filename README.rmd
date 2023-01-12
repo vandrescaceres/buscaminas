@@ -3,5 +3,6 @@ Librerías utilizadas:
   -Jetpack Compose
   -LiveData
   
+<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">  
 ![Buscaminas 1](https://github.com/vandrescaceres/buscaminas/blob/main/Minesweeper%201.png)
 ![Buscaminas 2]https://github.com/vandrescaceres/buscaminas/blob/main/Minesweeper%202.png)
