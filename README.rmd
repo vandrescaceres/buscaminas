@@ -2,3 +2,6 @@ Lenguaje de Programación: Kotlin
 Librerías utilizadas:
   -Jetpack Compose
   -LiveData
+  
+![Buscaminas 1](Minesweeper 1.png)
+![Buscaminas 2](Minesweeper 2.png)
