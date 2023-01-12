@@ -1,0 +1,4 @@
+Lenguaje de Programación: Kotlin
+Librerías utilizadas:
+  -Jetpack Compose
+  -LiveData
