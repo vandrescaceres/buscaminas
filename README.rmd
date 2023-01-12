@@ -3,5 +3,5 @@ Librerías utilizadas:
   -Jetpack Compose
   -LiveData
   
-![Buscaminas 1](Minesweeper 1.png)
-![Buscaminas 2](Minesweeper 2.png)
+![Buscaminas 1](https://github.com/vandrescaceres/buscaminas/blob/main/Minesweeper%201.png)
+![Buscaminas 2]https://github.com/vandrescaceres/buscaminas/blob/main/Minesweeper%202.png)
